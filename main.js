@@ -87,4 +87,5 @@ function otherkey()
 	img_image="otherkey.png";
 	add();
 }
+//correct JS code
 	
